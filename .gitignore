@@ -1,6 +1,14 @@
-ai-service/venv/
-frontend/node_modules/
+# Python
+venv/
+.venv/
 __pycache__/
 *.pyc
+
+# Node
+node_modules/
+
+# Environment
 .env
-.DS_Store
+
+# Vite
+dist/
